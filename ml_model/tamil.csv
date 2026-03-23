@@ -1,0 +1,950 @@
+﻿comment	label
+அருமையான முயற்சி	non_toxic
+நல்ல வேலை 👍	non_toxic
+சூப்பர் விளக்கம்	non_toxic
+பயனுள்ள தகவல்	non_toxic
+நல்ல முன்னேற்றம்	non_toxic
+வெகுசிறந்த முயற்சி	non_toxic
+தெளிவான விளக்கம்	non_toxic
+நன்றாக செய்துள்ளீர்கள்	non_toxic
+சரியான அணுகுமுறை	non_toxic
+நல்ல ஒழுங்கு	non_toxic
+மிக நன்றாக உள்ளது	non_toxic
+உதவிகரமான பதிவு	non_toxic
+அழகான தொகுப்பு	non_toxic
+சரியான கருத்து	non_toxic
+பாராட்டுகள் 👏	non_toxic
+நல்ல சிந்தனை	non_toxic
+தெளிவான விளக்கம் 👍	non_toxic
+நன்றாக முயற்சி	non_toxic
+சிறந்த விளக்கம்	non_toxic
+உயர்ந்த தரம்	non_toxic
+பயனுள்ள பதிவு	non_toxic
+நல்ல எடுத்துக்காட்டு	non_toxic
+மிகவும் அருமை	non_toxic
+நன்றாக அமைந்துள்ளது	non_toxic
+சரியான விளக்கம்	non_toxic
+நல்ல ஆராய்ச்சி	non_toxic
+பயனுள்ள கருத்து	non_toxic
+சிறந்த அணுகுமுறை	non_toxic
+நல்ல விளக்கம் 👌	non_toxic
+தெளிவான செய்தி	non_toxic
+மிகச் சிறந்த முயற்சி	non_toxic
+பாராட்டத்தக்க வேலை	non_toxic
+நல்ல திட்டமிடல்	non_toxic
+சரியான விளக்கங்கள்	non_toxic
+அருமையான பதிவு	non_toxic
+நன்றாக உள்ளது	non_toxic
+பயனுள்ள வீடியோ	non_toxic
+சிறந்த கருத்து	non_toxic
+மிகவும் தெளிவு	non_toxic
+நல்ல வடிவமைப்பு	non_toxic
+அழகாக செய்துள்ளீர்கள்	non_toxic
+சரியான வழிகாட்டல்	non_toxic
+பயனுள்ள விளக்கம்	non_toxic
+சிறந்த வேலை 👍	non_toxic
+மிக நன்றாக செய்துள்ளீர்கள்	non_toxic
+நல்ல முயற்சி	non_toxic
+சரியான தகவல்	non_toxic
+பாராட்டுகள் 🙌	non_toxic
+தெளிவான அணுகுமுறை	non_toxic
+மிகச் சிறப்பு	non_toxic
+முட்டாள் நீ	toxic
+அறிவில்லாதவன்	toxic
+வேஸ்ட் வேலை	toxic
+பேசவே தெரியாது	toxic
+மிக மோசம்	toxic
+சரியாக செய்யவில்லை	toxic
+பயனற்ற பதிவு	toxic
+அபத்தமான கருத்து	toxic
+போய்ப் படி	toxic
+அறிவே இல்லையா	toxic
+மோசமான முயற்சி	toxic
+பழுதான விளக்கம்	toxic
+கேவலமான பதிவு	toxic
+என்னடா இது	toxic
+சொல்லவே முடியாது	toxic
+முட்டாள் கருத்து	toxic
+அவமானம் இது	toxic
+மிகக் குறைவு	toxic
+பேசாதே நல்லது	toxic
+பொறுப்பில்லாத பேச்சு	toxic
+சரியில்லை இது	toxic
+அருவருப்பான வேலை	toxic
+கேவலமான செயல்	toxic
+மிகத் தாழ்ந்த தரம்	toxic
+படுதவறான விளக்கம்	toxic
+சிந்தனை இல்லாமல்	toxic
+மோசமான செயல்	toxic
+பயங்கர மோசம்	toxic
+அறிவில்லாத பேச்சு	toxic
+வேலையே தெரியாது	toxic
+கேவலமான கருத்து	toxic
+நீயே பிரச்சனை	toxic
+அவசர பேச்சு	toxic
+முட்டாள் முடிவு	toxic
+அபத்தம் முழுவதும்	toxic
+மோசமான அணுகுமுறை	toxic
+அறிவில்லாத செயல்	toxic
+கேவலமான விளக்கம்	toxic
+அர்த்தமில்லாத பேச்சு	toxic
+பயனற்ற முயற்சி	toxic
+உயிரோட இருக்காதே	severe_toxic
+போய் மறைந்து போ	severe_toxic
+உன்னை யாரும் வேண்டாம்	severe_toxic
+உன் வாழ்க்கை பயனற்றது	severe_toxic
+உன் இருப்பு தேவையில்லை	severe_toxic
+நீ இல்லாமலே நல்லது	severe_toxic
+உன்னை யாரும் நினைக்கமாட்டார்கள்	severe_toxic
+உன் வாழ்க்கை வீண்	severe_toxic
+உலகம் உன்னை நிராகரிக்கும்	severe_toxic
+உன் வாழ்க்கை அர்த்தமில்லை	severe_toxic
+உன்னை யாரும் மதிக்கமாட்டார்கள்	severe_toxic
+நீ அழிந்து போ	severe_toxic
+உன் இருப்பு தீங்கு	severe_toxic
+உன்னை யாரும் ஏற்கமாட்டார்கள்	severe_toxic
+உன் வாழ்க்கை தேவையில்லை	severe_toxic
+நீ இல்லாததே நல்லது	severe_toxic
+உன் வாழ்க்கை சுமை	severe_toxic
+உன் இருப்பு பயனற்றது	severe_toxic
+மிக அருமையான பதிவு	non_toxic
+நல்ல விளக்கங்கள்	non_toxic
+சிறப்பான வேலை	non_toxic
+தெளிவான கருத்துகள்	non_toxic
+பாராட்டத்தக்க முயற்சி	non_toxic
+நன்றாக முன்னேற்றம்	non_toxic
+சரியான எடுத்துக்காட்டு	non_toxic
+மிகவும் பயனுள்ளது	non_toxic
+அழகான விளக்கம்	non_toxic
+நல்ல தரம்	non_toxic
+சிறந்த தொகுப்பு	non_toxic
+நன்றாக அமைப்பு	non_toxic
+சரியான முயற்சி	non_toxic
+மிகச் சிறந்த பதிவு	non_toxic
+நல்ல விளக்கம் 👏	non_toxic
+பயனுள்ள கருத்துக்கள்	non_toxic
+சரியான வழி	non_toxic
+நல்ல சிந்தனை 👍	non_toxic
+மிகவும் தெளிவான பதிவு	non_toxic
+பாராட்டுகள் நண்பா	non_toxic
+சிறந்த முன்னேற்றம்	non_toxic
+நன்றாக செய்த முயற்சி	non_toxic
+அழகான தொகுப்பு 👍	non_toxic
+மிகவும் உதவிகரம்	non_toxic
+சரியான விளக்கம் 👌	non_toxic
+நல்ல அணுகுமுறை	non_toxic
+சிறந்த பகிர்வு	non_toxic
+பயனுள்ள தகவல்கள்	non_toxic
+மிகவும் நன்றாக உள்ளது	non_toxic
+நல்ல ஆதாரம்	non_toxic
+படுதவறான பதிவு	toxic
+அறிவில்லாத பேச்சு	toxic
+என்ன கொடுமை	toxic
+பயனற்ற வேலை	toxic
+மோசமான கருத்து	toxic
+கேவலமான முயற்சி	toxic
+மிகத் தாழ்ந்த முயற்சி	toxic
+அபத்தமான பதிவு	toxic
+பேச தெரியாதவன்	toxic
+முட்டாள் வேலை	toxic
+அர்த்தமில்லாத செயல்	toxic
+மோசமான திட்டம்	toxic
+பழுதான பதிவு	toxic
+அவசர முடிவு	toxic
+அறிவில்லாத செயல்கள்	toxic
+கேவலமான அணுகுமுறை	toxic
+பயனற்ற கருத்து	toxic
+மிக மோசமான வேலை	toxic
+பொறுப்பில்லாத செயல்	toxic
+சரியில்லாத விளக்கம்	toxic
+முட்டாள் பேச்சு	toxic
+கேவலமான தரம்	toxic
+மிகவும் அர்த்தமில்லை	toxic
+அவமானமான பதிவு	toxic
+மோசமான சிந்தனை	toxic
+சரியான புரிதல் இல்லை	toxic
+பயனற்ற முயற்சி	toxic
+முட்டாள் திட்டம்	toxic
+கேவலமான செயல்	toxic
+மிகத் தாழ்ந்த பதிவு	toxic
+உன் வாழ்க்கை வீணே	severe_toxic
+நீ தேவையற்றவன்	severe_toxic
+உன் இருப்பு அர்த்தமில்லை	severe_toxic
+உன் வாழ்க்கை சுமை	severe_toxic
+உன்னை யாரும் நினைவில் வைக்கமாட்டார்கள்	severe_toxic
+நீ இல்லாமலே போதும்	severe_toxic
+உன் வாழ்க்கை அழிவு	severe_toxic
+உன் இருப்பு தீங்கு	severe_toxic
+நீ அழிந்து போவது நல்லது	severe_toxic
+உன் வாழ்க்கை தாழ்வு	severe_toxic
+உன்னை யாரும் விரும்பமாட்டார்கள்	severe_toxic
+உன் இருப்பு அவமானம்	severe_toxic
+நீ மறைந்து போவது நல்லது	severe_toxic
+உன் வாழ்க்கை அர்த்தமற்றது	severe_toxic
+நீ தேவையில்லாதவன்	severe_toxic
+உன் இருப்பு சுமை	severe_toxic
+மிக சிறந்த பதிவு	non_toxic
+நல்ல விளக்க முறைகள்	non_toxic
+தெளிவான அணுகுதல்	non_toxic
+பாராட்டத்தக்க முயற்சி 👍	non_toxic
+நன்றாக விளக்கப்பட்டுள்ளது	non_toxic
+சிறப்பான தொகுப்பு	non_toxic
+மிகவும் பயனுள்ளதாக உள்ளது	non_toxic
+சரியான கருத்தாக்கம்	non_toxic
+நல்ல முனைப்பாடு	non_toxic
+உதவிகரமான தகவல்கள்	non_toxic
+மிக அருமை 👌	non_toxic
+நல்ல முன்னேற்றம் 👍	non_toxic
+சிறந்த முயற்சி தொடருங்கள்	non_toxic
+தெளிவான சிந்தனை	non_toxic
+மிக அழகான பதிவு	non_toxic
+நல்ல வழிகாட்டுதல்	non_toxic
+மிகவும் சிறப்பான செயல்	non_toxic
+சரியான விளக்க முறைகள்	non_toxic
+பயனுள்ள அணுகுமுறை	non_toxic
+நல்ல தரமான பதிவு	non_toxic
+மிகவும் அருமையான வேலை	non_toxic
+நல்ல கருத்துகள் 👏	non_toxic
+தெளிவான விளக்கம் 👏	non_toxic
+சிறந்த உதாரணம்	non_toxic
+நன்றாக பகிர்ந்துள்ளீர்கள்	non_toxic
+சரியான நோக்கம்	non_toxic
+மிகவும் நல்ல முயற்சி	non_toxic
+அழகான அணுகுமுறை	non_toxic
+சிறந்த தரம் 👍	non_toxic
+பயனுள்ள விளக்கங்கள்	non_toxic
+மிகத் தெளிவாக உள்ளது	non_toxic
+நல்ல செய்தி	non_toxic
+சிறந்த தொகுப்பு 👌	non_toxic
+மிகவும் அர்த்தமுள்ளதாக உள்ளது	non_toxic
+நல்ல விவரம்	non_toxic
+மிக மோசமான பதிவு	toxic
+அறிவில்லாத கருத்து	toxic
+என்ன பேச்சு இது	toxic
+பயனற்ற கருத்துக்கள்	toxic
+மோசமான அணுகுதல்	toxic
+கேவலமான விளக்கம்	toxic
+அபத்தமான சிந்தனை	toxic
+முட்டாள் செயல்கள்	toxic
+பொறுப்பில்லாத பதிவு	toxic
+மிகத் தாழ்ந்த தரம்	toxic
+அர்த்தமில்லாத பதிவு	toxic
+பழுதான அணுகுமுறை	toxic
+மிகக் கேவலம்	toxic
+அவமானகரமான பேச்சு	toxic
+சரியில்லாத முயற்சி	toxic
+முட்டாள் விளக்கம்	toxic
+அறிவில்லாத திட்டம்	toxic
+பயனற்ற செயல்	toxic
+மிக மோசமான செயல்	toxic
+கேவலமான பதிவு	toxic
+அபத்தமான முடிவு	toxic
+சிந்தனை இல்லாமல் பேசுகிறாய்	toxic
+முட்டாள் முயற்சி	toxic
+மிகவும் அர்த்தமில்லை	toxic
+பேச தெரியாதவன்	toxic
+அவசரமாக செய்த வேலை	toxic
+மோசமான தரம்	toxic
+பழுதான கருத்து	toxic
+அறிவில்லாத பதிவு	toxic
+மிக மோசமான அணுகுமுறை	toxic
+உன் வாழ்க்கை பயனற்றது	severe_toxic
+உன்னை யாரும் விரும்பவில்லை	severe_toxic
+நீ இல்லாமல் போவது நல்லது	severe_toxic
+உன் இருப்பு தேவையில்லை	severe_toxic
+உன் வாழ்க்கை சுமையாக உள்ளது	severe_toxic
+நீ இல்லாததே உலகுக்கு நல்லது	severe_toxic
+உன் இருப்பு அவமானம்	severe_toxic
+உன் வாழ்க்கை அழிவாகும்	severe_toxic
+நீ அழிந்து போவது நல்லது	severe_toxic
+உன் இருப்பு தீங்கு தருகிறது	severe_toxic
+உன்னை யாரும் மதிப்பதில்லை	severe_toxic
+நீ இல்லாமலே போதும்	severe_toxic
+உன் வாழ்க்கை வீண்	severe_toxic
+உன்னை யாரும் நினைக்கமாட்டார்கள்	severe_toxic
+நீ தேவையற்றவன்	severe_toxic
+உன் இருப்பு பயனற்றது	severe_toxic
+நீ மறைந்து போவது நல்லது	severe_toxic
+உன் வாழ்க்கை அர்த்தமற்றது	severe_toxic
+உன்னை யாரும் காப்பாற்றமாட்டார்கள்	severe_toxic
+நீ ஒரு முட்டாள்	severe_toxic
+உனக்கு அறிவே கிடையாதா?	toxic
+மூளைய கழட்டி வச்சிட்டு பேசுறியா	toxic
+உன்ன மாதிரி ஆளுங்க பூமிக்கு பாரம்	toxic
+நீ ஒரு தரித்திரம் புடிச்சவன்	toxic
+வாய மூடிட்டு போயிடு இல்லனா நடக்குறதே வேற	toxic
+உன்ன கொல்லாம விட மாட்டேன்	severe_toxic
+உன் மூஞ்சிய பாத்தாலே எரியுது	toxic
+செருப்பால அடிக்கணும் உன்ன	severe_toxic
+நீ நாசமா தான் போவ	severe_toxic
+உன்ன வெட்டி சாய்க்கணும்	severe_toxic
+உனக்கு சங்கு ஊத போறேன்	severe_toxic
+ரோட்டுல நிக்க வச்சு அசிங்கப்படுத்துவேன்	severe_toxic
+உன் குடும்பமே அழியணும்	severe_toxic
+பிணமா தான் நீ வீட்டுக்கு போவ	severe_toxic
+எச்ச பையலே ஓடி போயிடு	toxic
+உன்ன பொழக்காம விடமாட்டேன்	severe_toxic
+பொறம்போக்கு மாதிரி பேசாத	toxic
+உன் கதை இன்னையோட முடிஞ்சுது	severe_toxic
+நீ ஒண்ணுத்துக்கும் லாயக்கு இல்ல	toxic
+த்தூ இது ஒரு பொழப்பு	toxic
+இந்த வீடியோ மிகவும் பயனுள்ளதாக இருந்தது	non_toxic
+உங்கள் விளக்கம் தெளிவாக உள்ளது	non_toxic
+சில பகுதிகளில் இன்னும் விரிவாக சொல்லலாம்	non_toxic
+இந்த முயற்சி பாராட்டத்தக்கது	non_toxic
+உங்கள் கருத்து புரிகிறது ஆனால் நான் ஒத்துக்கொள்ளவில்லை	non_toxic
+இது நல்ல தொடக்கம் தான்	non_toxic
+அடுத்த முறை இன்னும் சிறப்பாக செய்யலாம்	non_toxic
+உங்கள் உழைப்புக்கு நன்றி	non_toxic
+சில பிழைகள் இருந்தாலும் முயற்சி நன்றாக உள்ளது	non_toxic
+இந்த தகவல் எனக்கு உதவியது	non_toxic
+வீடியோ நீளம் கொஞ்சம் அதிகமாக இருந்தது	non_toxic
+உங்கள் அணுகுமுறை சுவாரஸ்யமாக உள்ளது	non_toxic
+நான் வேறுபட்ட கருத்து கொண்டிருக்கிறேன்	non_toxic
+இது சராசரி தரமான உள்ளடக்கம்	non_toxic
+சில இடங்களில் தெளிவில்லை	non_toxic
+உங்கள் கருத்து மதிப்புக்குரியது	non_toxic
+நன்றி பகிர்ந்ததற்கு	non_toxic
+இது பலருக்கும் உதவும் என்று நினைக்கிறேன்	non_toxic
+மேலும் உதாரணங்கள் கொடுத்தால் நன்றாக இருக்கும்	non_toxic
+உங்கள் முயற்சி பாராட்டத்தக்கது 👍	non_toxic
+இந்த விஷயம் பற்றி இன்னும் கற்றுக்கொள்ள வேண்டும்	non_toxic
+உங்கள் வீடியோ பயனுள்ளதாக இருந்தது 😊	non_toxic
+சில தகவல்கள் தவறாக இருக்கலாம்	non_toxic
+நல்ல முயற்சி தொடருங்கள்	non_toxic
+இது எனக்கு புதிய தகவல்	non_toxic
+நான் இதை வேறுவிதமாக பார்க்கிறேன்	non_toxic
+உங்கள் வேலை மதிப்புக்குரியது	non_toxic
+இது சரி ஆனால் மேம்பாடு தேவை	non_toxic
+சிறிய திருத்தங்கள் செய்தால் சிறப்பு	non_toxic
+உங்கள் விளக்கம் எளிதாக இருந்தது	non_toxic
+இந்த விளக்கம் புரிய எளிதாக இருந்தது	non_toxic
+உங்கள் அணுகுமுறை வேறுபட்டதாக இருந்தது	non_toxic
+இது நல்ல தகவல்களை வழங்குகிறது	non_toxic
+சில இடங்களில் விளக்கம் சுருக்கமாக உள்ளது	non_toxic
+உங்கள் கருத்து சிந்திக்க வைக்கிறது	non_toxic
+இந்த பகுதி மிகவும் தெளிவாக இருந்தது	non_toxic
+உங்கள் முயற்சி நன்றாக உள்ளது	non_toxic
+சில கருத்துகளுடன் நான் ஒத்துக்கொள்கிறேன்	non_toxic
+மேலும் உதாரணங்கள் சேர்த்தால் சிறப்பு	non_toxic
+உங்கள் வீடியோ தரம் நன்றாக உள்ளது	non_toxic
+இது பலருக்கும் உதவியாக இருக்கும்	non_toxic
+உங்கள் விளக்கம் சுருக்கமாகவும் பயனுள்ளதாகவும் இருந்தது	non_toxic
+சில விஷயங்கள் இன்னும் விரிவாக இருக்கலாம்	non_toxic
+இந்த தலைப்பு சுவாரஸ்யமாக உள்ளது	non_toxic
+நல்ல முயற்சி தொடருங்கள் 👍	non_toxic
+உங்கள் பார்வை தனித்துவமாக உள்ளது	non_toxic
+இது எனக்கு புதிய புரிதலை அளித்தது	non_toxic
+சிறிய திருத்தங்கள் செய்தால் இன்னும் சிறப்பு	non_toxic
+இந்த தகவல் சரியாக உள்ளது	non_toxic
+உங்கள் வேலை நன்றாக அமைந்துள்ளது	non_toxic
+நன்றி பகிர்ந்ததற்கு 😊	non_toxic
+இது நல்ல முயற்சி தான்	non_toxic
+உங்கள் அணுகுமுறை தெளிவாக உள்ளது	non_toxic
+சில பகுதிகள் சற்று நீளமாக இருந்தது	non_toxic
+உங்கள் விளக்கம் எளிமையாக இருந்தது	non_toxic
+இது ஒரு நல்ல தொடக்கம்	non_toxic
+மேலும் தகவல்கள் சேர்க்கலாம்	non_toxic
+உங்கள் முயற்சி பாராட்டத்தக்கது 👏	non_toxic
+சில விஷயங்களில் நான் வேறுபடுகிறேன்	non_toxic
+இந்த விளக்கம் பயனுள்ளதாக இருந்தது	non_toxic
+உங்கள் கருத்து புரிந்தது	non_toxic
+இது பலருக்கு உதவியாக இருக்கும்	non_toxic
+சில பகுதிகள் தெளிவாக இல்லை	non_toxic
+உங்கள் முயற்சி மதிப்புக்குரியது	non_toxic
+இது ஒரு நல்ல விளக்கம்	non_toxic
+நல்ல வேலை செய்து இருக்கிறீர்கள்	non_toxic
+உங்கள் தகவல் பயனுள்ளதாக உள்ளது	non_toxic
+சில இடங்களில் சுருக்கமாக உள்ளது	non_toxic
+உங்கள் கருத்து சிந்திக்க வைக்கிறது 😊	non_toxic
+இந்த விஷயம் நன்றாக விளக்கப்பட்டுள்ளது	non_toxic
+உங்கள் வேலை தரமானது	non_toxic
+மேலும் விரிவாக கூறலாம்	non_toxic
+இந்த தகவல் சரியாக உள்ளது என்று நினைக்கிறேன்	non_toxic
+உங்கள் முயற்சி தொடரட்டும்	non_toxic
+சில இடங்களில் தெளிவு தேவை	non_toxic
+இது ஒரு நல்ல பகிர்வு	non_toxic
+உங்கள் வீடியோ பயனுள்ளதாக இருந்தது 👍	non_toxic
+இந்த தலைப்பு முக்கியமானது	non_toxic
+உங்கள் அணுகுமுறை நன்றாக இருந்தது	non_toxic
+சிறிய மாற்றங்கள் செய்தால் சிறப்பு	non_toxic
+உங்கள் கருத்து மதிப்புக்குரியது 😊	non_toxic
+இது ஒரு நல்ல விளக்கமாக இருந்தது	non_toxic
+மேலும் உதாரணங்கள் கொடுக்கலாம்	non_toxic
+உங்கள் உழைப்பு பாராட்டத்தக்கது	non_toxic
+சில தகவல்கள் புதிதாக இருந்தது	non_toxic
+இந்த விளக்கம் சுருக்கமாக இருந்தது	non_toxic
+உங்கள் வேலை நன்றாக அமைந்துள்ளது 👍	non_toxic
+இது பலருக்கும் பயனுள்ளதாக இருக்கும்	non_toxic
+சில விஷயங்களில் மாற்றம் தேவை	non_toxic
+உங்கள் கருத்து புரிந்தது நன்றி	non_toxic
+இந்த தகவல் எனக்கு உதவியது 😊	non_toxic
+உங்கள் அணுகுமுறை சரியானது	non_toxic
+சில இடங்களில் விரிவாக கூறலாம்	non_toxic
+இது ஒரு நல்ல முயற்சி	non_toxic
+உங்கள் வேலை சிறப்பாக உள்ளது	non_toxic
+மேலும் விளக்கம் கொடுத்தால் நன்றாக இருக்கும்	non_toxic
+உங்கள் பார்வை சுவாரஸ்யமாக உள்ளது	non_toxic
+இந்த தலைப்பு பற்றி இன்னும் கற்றுக்கொள்ள வேண்டும்	non_toxic
+உங்கள் வீடியோ தரமானது 👍	non_toxic
+சில பகுதிகள் நீளமாக இருந்தது	non_toxic
+உங்கள் முயற்சி நன்றாக உள்ளது 😊	non_toxic
+இந்த தகவல் பயனுள்ளதாக உள்ளது	non_toxic
+மேலும் தெளிவாக விளக்கலாம்	non_toxic
+உங்கள் வேலை மதிப்புக்குரியது 👏	non_toxic
+சில இடங்களில் சுருக்கமாக உள்ளது ஆனால் புரிகிறது	non_toxic
+இது நல்ல தகவல் பகிர்வு	non_toxic
+உங்கள் அணுகுமுறை புரிய எளிது	non_toxic
+சிறிய திருத்தங்கள் செய்தால் சிறப்பு 👍	non_toxic
+இந்த விஷயம் சுவாரஸ்யமானது	non_toxic
+உங்கள் கருத்து புரிகிறது 😊	non_toxic
+இது ஒரு பயனுள்ள விளக்கம்	non_toxic
+உங்கள் முயற்சி தொடரட்டும் 👏	non_toxic
+சில விஷயங்களில் வேறுபட்ட கருத்து உள்ளது	non_toxic
+இந்த தகவல் பலருக்கும் உதவும்	non_toxic
+உங்கள் வேலை சிறப்பாக அமைந்துள்ளது	non_toxic
+மேலும் விளக்கம் கொடுத்தால் நல்லது	non_toxic
+இந்த விளக்கம் இன்னும் மேம்படுத்தலாம் என்று நினைக்கிறேன்	non_toxic
+சில இடங்களில் குழப்பமாக இருந்தது ஆனால் முயற்சி நல்லது	non_toxic
+உங்கள் கருத்து வேறுபட்டாலும் மதிக்கிறேன்	non_toxic
+இந்த தகவல் சரியாக உள்ளது என நான் கருதுகிறேன்	non_toxic
+உன் பேச்சு ரொம்ப முட்டாள்தனமாக இருக்கிறது	toxic
+நீ என்ன பேசுறேன்னே தெரியல	toxic
+நீ ஒரு கேவலமானவன்	toxic
+உன் பேச்சு முழுக்க குப்பை	toxic
+என்னடா இந்த மூர்க்கம்	toxic
+உன்னை பார்த்தாலே வெறுப்பு வருகிறது	toxic
+நீ ஒரு பயனற்றவன்	toxic
+உன் மூளை வேலை செய்யல போல	toxic
+நீ ரொம்பவே மோசமான ஆள்	toxic
+உன் level ரொம்ப கீழே	toxic
+நீ ஒரு வெட்கமே இல்லாதவன்	toxic
+உன் attitude ரொம்ப அசிங்கம்	toxic
+நீ ஒரு முட்டாள் தான்	toxic
+உன் வாழ்க்கைவே ஒரு joke	toxic
+நீ பேசுறது கேட்கவே அருவருப்பு	toxic
+உன் செயல் முழுக்க தப்பு	toxic
+நீ ஒரு zero தான்	toxic
+போய் சாகு	severe_toxic
+உன்னை ஒழிச்சுடணும் போல இருக்கு	severe_toxic
+இந்த உலகத்துக்கு நீ தேவையில்லை	severe_toxic
+உன் existence itself ஒரு தவறு	severe_toxic
+உன்னை நசுக்கணும்	severe_toxic
+உன் உயிர் போனால் தான் நிம்மதி	severe_toxic
+உன்னை தகர்க்கணும்	severe_toxic
+நீ இங்கே இருக்கவே கூடாது	severe_toxic
+உன்னை அடிச்சு ஒழிக்கணும்	severe_toxic
+நீ சாவே நல்லது	severe_toxic
+உன் மாதிரி ஆளுங்க இருக்க கூடாது	severe_toxic
+உன்னை முடிச்சுடணும்	severe_toxic
+உன் presence itself ஒரு கேடு	severe_toxic
+உன்னை இல்லாம பண்ணணும்	severe_toxic
+நீ உயிரோட இருப்பதே தவறு	severe_toxic
+உன் விளக்கம் முழுக்க குப்பை	toxic
+இந்த அளவுக்கு தெரியாம பேசாதே	toxic
+உன்னால் சரியாக எதுவும் செய்ய முடியாது	toxic
+உன் வேலை பார்த்தா சிரிக்கணும் போல இருக்கு	toxic
+இவ்வளவு மோசமான விளக்கம் எப்படி possible	toxic
+உன் content ரொம்பவே கேவலம்	toxic
+நீ ரொம்ப overா பேசுற	toxic
+இந்த வீடியோ முழுக்க waste	toxic
+உன் logic எதுவுமே sense இல்ல	toxic
+நீ சொல்றது பாதி கூட சரியில்லை	toxic
+உன் அணுகுமுறை ரொம்ப childish	toxic
+உன் பேச்சு கேட்கவே முடியல	toxic
+இது explanationனா அதுவே பெரிய joke	toxic
+உன் வேலை பார்த்தா basic கூட தெரியாத மாதிரி இருக்கு	toxic
+உன் கருத்து ரொம்ப shallow	toxic
+இந்த மாதிரி content போடாதே	toxic
+உன் முயற்சி ரொம்ப weak	toxic
+நீ unnecessaryஆ drama பண்ணுற	toxic
+உன் பேச்சு முழுக்க nonsense	toxic
+இது ஒரு பெரிய time waste	toxic
+உன்னால நல்லா explain பண்ணவே முடியல	toxic
+உன் idea ரொம்ப silly	toxic
+இந்த அளவுக்கு overconfidence வேணாம்	toxic
+உன் reasoning பாத்தா கலங்குது	toxic
+உன் style ரொம்ப irritating	toxic
+நீ ரொம்ப carelessஆ பேசுற	toxic
+உன் வீடியோ quality ரொம்ப poor	toxic
+உன் explanation ரொம்ப confusing	toxic
+நீ பேசுறது கேட்கவே irritate ஆகுது	toxic
+உன் கருத்து completely wrong	toxic
+இந்த மாதிரி content யாரும் எதிர்பார்க்கல	toxic
+உன் analysis ரொம்ப weak	toxic
+நீ சரியா prepare பண்ணவே இல்ல	toxic
+உன் tone ரொம்ப arrogant	toxic
+உன் behavior ரொம்ப annoying	toxic
+இந்த content பாத்தா frustration ஆகுது	toxic
+உன் வேலைக்கு effort தெரியவே இல்லை	toxic
+நீ பேசுறது எல்லாம் overacting	toxic
+உன் விளக்கம் fullஆ misleading	toxic
+நீ basic knowledge கூட இல்லாமல் பேசுற	toxic
+உன் confidenceக்கு content match ஆகல	toxic
+இந்த மாதிரி careless explanation வேண்டாம்	toxic
+உன் approach ரொம்ப immature	toxic
+உன் கருத்து கேட்கவே வேண்டாம் போல இருக்கு	toxic
+நீ unnecessaryஆ smartஆ நடிக்காதே	toxic
+உன் explanation ரொம்ப dull	toxic
+உன் presentation ரொம்ப sloppy	toxic
+நீ எல்லாம் advice குடுக்குறது funnyஆ இருக்கு	toxic
+உன் பேச்சு பாதி time waste	toxic
+இந்த மாதிரி weak content போடாதே	toxic
+உன் logic ரொம்ப flawed	toxic
+நீ பேசுறது half knowledge	toxic
+உன் video பாத்தா patience போயிடுது	toxic
+உன் கருத்து கேட்க worth இல்ல	toxic
+நீ overconfidenceஆ பேசுற	toxic
+உன் analysis ரொம்ப basic	toxic
+உன் attitude ரொம்ப irritating	toxic
+இந்த explanation ரொம்ப poor quality	toxic
+நீ unnecessaryா argue பண்ணுற	toxic
+உன் effort ரொம்ப குறைவு	toxic
+உன் reasoning பாதி cooked up போல இருக்கு	toxic
+நீ பேசுறது full confusion	toxic
+உன் style ரொம்ப cheapஆ இருக்கு	toxic
+உன் video முழுக்க filler தான்	toxic
+நீ unnecessary drama create பண்ணுற	toxic
+உன் கருத்து ரொம்ப narrow-minded	toxic
+இந்த content ரொம்ப disappointing	toxic
+உன் presentation ரொம்ப boring	toxic
+நீ பேசுறது கேட்கவே cringe ஆகுது	toxic
+உன் approach ரொம்ப unprofessional	toxic
+உன் logic ரொம்ப weak foundation	toxic
+இந்த மாதிரி careless content வேண்டாம்	toxic
+நீ basic facts கூட verify பண்ணல	toxic
+உன் tone ரொம்ப disrespectful	toxic
+உன் explanation ரொம்ப messy	toxic
+நீ unnecessary hype பண்ணுற	toxic
+உன் content பாத்தா regret ஆகுது	toxic
+உன் analysis ரொம்ப surface level	toxic
+நீ பேசுறது எல்லாம் guess work மாதிரி இருக்கு	toxic
+உன் style ரொம்ப over the top	toxic
+உன் explanation clarity இல்ல	toxic
+இந்த மாதிரி sloppy வேலை வேண்டாம்	toxic
+நீ பேசுறது பாதி logic இல்லாமல் இருக்கு	toxic
+உன் presentation ரொம்ப careless	toxic
+உன் கருத்து ரொம்ப childish	toxic
+நீ unnecessary overreact பண்ணுற	toxic
+உன் reasoning ரொம்ப inconsistent	toxic
+உன் video பாத்தா disappointment தான்	toxic
+நீ பேசுறது முழுக்க exaggeration	toxic
+உன் content ரொம்ப average கூட இல்ல	toxic
+உன் tone ரொம்ப rude	toxic
+நீ unnecessary attitude காட்டுற	toxic
+உன் explanation ரொம்ப half baked	toxic
+உன் effort ரொம்ப low	toxic
+நீ பேசுறது கேட்க patience தேவை	toxic
+உன் approach ரொம்ப careless	toxic
+உன் content ரொம்ப repetitive	toxic
+நீ unnecessary blame பண்ணுற	toxic
+உன் reasoning ரொம்ப flawed	toxic
+உன் style ரொம்ப irritatingஆ இருக்கு	toxic
+நீ பேசுறது full drama	toxic
+உன் video quality unacceptable	toxic
+உன் கருத்து ரொம்ப irresponsible	toxic
+நீ unnecessary provoke பண்ணுற	toxic
+உன் explanation ரொம்ப confusingஆ இருக்கு	toxic
+உன் behavior ரொம்ப childish	toxic
+நீ பேசுறது full exaggeration	toxic
+உன் content ரொம்ப disappointingஆ இருக்கு	toxic
+உன் tone ரொம்ப unpleasant	toxic
+நீ unnecessary negativeஆ பேசுற	toxic
+உன் analysis ரொம்ப weakஆ இருக்கு	toxic
+உன் presentation ரொம்ப messyஆ இருக்கு	toxic
+உன் பேச்சு ரொம்ப கீழ்த்தரமாக இருக்கு	toxic
+இந்த மாதிரி அர்த்தமில்லாத கருத்து சொல்லாதே	toxic
+உன் explanation பாத்தா respect கூட வரல	toxic
+நீ பேசுறது முழுக்க cheap level தான்	toxic
+உன் attitude ரொம்ப மோசமாக தெரிகிறது	toxic
+இந்த அளவுக்கு irresponsibleஆ பேசாதே	toxic
+நீ உயிரோட இருக்க கூடாது	severe_toxic
+உன்னை அடிச்சு ஒழிக்கணும் போல இருக்கு	severe_toxic
+உன்னை பார்த்தாலே கோபம் வருகிறது, ஒருநாள் பாதிப்பேன்	severe_toxic
+உன்ன மாதிரி மனிதன் இந்த உலகத்துக்கு தேவையில்லை	severe_toxic
+நீயே இல்லாமல் இருந்தா நல்லது	severe_toxic
+உன்னை நசுக்கி விடணும் போல இருக்கு	severe_toxic
+உன்னால society கெடுது, நீ மறைந்தா நல்லது	severe_toxic
+உன்னை ஒரு நாள் காயப்படுத்தி தான் தீருவேன்	severe_toxic
+உன் existence itself ஒரு பிரச்சனை	severe_toxic
+நீ உயிரோட இருப்பது தவறு	severe_toxic
+உன்னை அடிக்கணும் என்று தோணுது	severe_toxic
+உன்ன மாதிரி ஆளை ஒழிக்கணும்	severe_toxic
+உன்னை பார்த்தா வெறுப்பு வருகிறது, அடிக்கணும் போல இருக்கு	severe_toxic
+நீ இருந்தா எல்லாம் கெட்டுப்போகுது	severe_toxic
+உன் உயிரை எடுத்தா தான் சமாதானம்	severe_toxic
+உன்னை ரொம்ப காயப்படுத்தணும் போல இருக்கு	severe_toxic
+நீ இந்த உலகத்துக்கு சுமை	severe_toxic
+உன்னை யாராவது தண்டிக்கணும்	severe_toxic
+நீ மறைந்தா தான் பலருக்கு நிம்மதி	severe_toxic
+உன்னை பார்த்தா வெறுப்பாக இருக்கிறது, தாங்க முடியல	severe_toxic
+உன்னை அடித்து ஒழிக்கணும்	severe_toxic
+நீ உயிரோட இருக்க வேண்டியவன் இல்லை	severe_toxic
+உன் வாழ்க்கையே அர்த்தமில்லாதது	severe_toxic
+உன்னை இல்லாம பண்ணணும் போல இருக்கு	severe_toxic
+நீ societyக்கு ஒரு குப்பை	severe_toxic
+உன்னை காயப்படுத்தி தான் மனசுக்கு நிம்மதி	severe_toxic
+நீ இருந்தா நல்லதெல்லாம் கெடுது	severe_toxic
+உன்னை யாராவது தகர்க்கணும்	severe_toxic
+உன் உயிர் போனால் தான் நியாயம்	severe_toxic
+நீயே இல்லாம இருந்தா உலகம் நல்லா இருக்கும்	severe_toxic
+உன்னை அடிக்காம இருந்தா கோபம் குறையாது	severe_toxic
+நீ மனிதனே இல்லை	severe_toxic
+உன்னை பாதிக்கணும் போல இருக்கு	severe_toxic
+நீ societyக்கு ஆபத்து	severe_toxic
+உன்னை பார்த்தா கையெழுத்து போடணும் போல இருக்கு	severe_toxic
+நீ இல்லாம இருந்தா தான் அமைதி	severe_toxic
+உன் presence ஒரு சாபம்	severe_toxic
+உன்னை ஒருநாள் தண்டிக்கணும்	severe_toxic
+நீ உயிரோட இருப்பதே தவறு	severe_toxic
+உன்னை யாராவது ஒழிக்கணும்	severe_toxic
+நீ இந்த உலகத்துக்கு தேவையில்லாதவன்	severe_toxic
+உன்னை அடித்து கீழே தள்ளணும் போல இருக்கு	severe_toxic
+உன் வாழ்க்கை முடிஞ்சா தான் நல்லது	severe_toxic
+நீ மனித சமுதாயத்துக்கு கெடுதல்	severe_toxic
+உன்னை காயப்படுத்தினால் தான் திருப்தி	severe_toxic
+நீயே ஒரு பாழ்	severe_toxic
+உன்னை பார்த்தாலே வெறுப்பு	severe_toxic
+உன் உயிர் போனால் தான் நியாயம் நடக்கும்	severe_toxic
+நீ இல்லாமல் போனால் பலருக்கு நிம்மதி	severe_toxic
+உன்னை தண்டிக்க யாராவது வரணும்	severe_toxic
+நீ வாழ தகுதியற்றவன்	severe_toxic
+உன்னை காயப்படுத்தாம விடமாட்டேன்	severe_toxic
+நீ இந்த உலகத்துக்கு ஒரு சுமை	severe_toxic
+உன்னை அடிக்கணும் என்று தோன்றுகிறது	severe_toxic
+உன் existence itself ஒரு தவறு	severe_toxic
+நீ இருந்தா எல்லாம் கெட்டுப்போகும்	severe_toxic
+உன்னை பார்த்தாலே அடிக்கணும் போல இருக்கு	severe_toxic
+நீ உயிரோட இருக்கவே கூடாது	severe_toxic
+உன்னை ஒழிக்கணும் போல இருக்கு	severe_toxic
+நீ இல்லாம போனால் நல்லது	severe_toxic
+உன்னை நசுக்கணும் போல இருக்கு	severe_toxic
+நீ இந்த சமூகத்துக்கு ஒரு ஆபத்து	severe_toxic
+உன்னை அடிக்காமல் இருக்க முடியல	severe_toxic
+நீ வாழ தகுதி இல்லாதவன்	severe_toxic
+உன்னை பாதிக்கணும் என்று தோணுது	severe_toxic
+நீ மனித குலத்துக்கு கெடுதல்	severe_toxic
+உன்னை பார்த்தா வெறுப்பு அதிகமாகுது	severe_toxic
+நீ இல்லாமல் இருந்தா தான் அமைதி	severe_toxic
+உன்னை யாராவது தகர்க்கணும் போல இருக்கு	severe_toxic
+நீ உயிரோட இருப்பது societyக்கு கேடு	severe_toxic
+உன்னை காயப்படுத்தி தான் மனசு குளிரும்	severe_toxic
+நீ இந்த உலகத்துக்கு தேவையில்லை	severe_toxic
+உன்னை அடித்து ஒழிக்கணும் போல இருக்கு	severe_toxic
+நீ மனிதர் என்ற பெயருக்கு தகுதியில்லை	severe_toxic
+உன்னை பார்த்தா கோபம் அதிகமாகுது	severe_toxic
+நீ இல்லாமல் போனால் தான் நல்லது	severe_toxic
+உன்னை பாதிக்கணும் என்று நினைக்கிறேன்	severe_toxic
+நீ வாழ தகுதியற்றவன் போல இருக்கிறாய்	severe_toxic
+உன்னை யாராவது தண்டிக்கணும் போல இருக்கு	severe_toxic
+நீ மனித சமுதாயத்துக்கு ஒரு சாபம்	severe_toxic
+உன்னை அடிக்கணும் என்று தோணுது	severe_toxic
+நீ இல்லாமல் இருந்தால் தான் நிம்மதி	severe_toxic
+உன்னை காயப்படுத்த வேண்டும் போல இருக்கு	severe_toxic
+நீ societyக்கு தேவையில்லாதவன்	severe_toxic
+உன்னை பார்த்தால் அடிக்கணும் போல இருக்கு	severe_toxic
+நீ உயிரோட இருக்கக்கூடாது	severe_toxic
+உன்னை ஒழிக்க வேண்டும் போல இருக்கு	severe_toxic
+நீ மனிதன் இல்லை	severe_toxic
+உன்னை பாதிக்காம இருந்தா கோபம் குறையாது	severe_toxic
+நீ வாழ வேண்டியவன் இல்லை	severe_toxic
+உன்னை காயப்படுத்தினால் தான் திருப்தி கிடைக்கும்	severe_toxic
+நீ உலகத்துக்கு ஒரு சுமை	severe_toxic
+உன்னை அடிக்காமல் இருக்க முடியாது போல இருக்கு	severe_toxic
+நீ இல்லாமல் போனால் உலகம் நல்லா இருக்கும்	severe_toxic
+உன்னை தகர்க்கணும் போல இருக்கு	severe_toxic
+நீ உயிரோட இருப்பதே தவறு போல இருக்கு	severe_toxic
+உன்னை பாதிக்கணும் என்று தோன்றுகிறது	severe_toxic
+நீ மனித குலத்துக்கு ஆபத்து	severe_toxic
+உன்னை பார்த்தால் கோபம் கட்டுப்படுத்த முடியல	severe_toxic
+நீ இல்லாமல் இருந்தால் தான் பலருக்கு நிம்மதி	severe_toxic
+உன்னை அடிக்கணும் என்று மனசு சொல்லுது	severe_toxic
+நீ வாழ தகுதி இல்லாதவன் போல இருக்கிறாய்	severe_toxic
+உன்னை யாராவது ஒழிக்கணும் போல இருக்கு	severe_toxic
+நீ மனித சமுதாயத்துக்கு கேடு	severe_toxic
+உன்னை காயப்படுத்தி தான் மனசு அமைதியாகும்	severe_toxic
+நீ உலகத்துக்கு தேவையில்லாதவன்	severe_toxic
+உன்னை அடித்து ஒழிக்கணும் என்று தோணுது	severe_toxic
+நீ மனிதரே இல்லை	severe_toxic
+உன்னை பாதிக்கணும் என்று உள்ளுக்குள் தோணுது	severe_toxic
+உன்னை ஒருநாள் கண்டிப்பாக தண்டிப்பேன்	severe_toxic
+நீ இந்த உலகத்திலிருந்து மறைந்தா நல்லது	severe_toxic
+உன்னை காயப்படுத்தாமல் விடமாட்டேன்	severe_toxic
+நீ உயிரோட இருப்பது பலருக்கும் பாதிப்பு	severe_toxic
+உன்னை அடிச்சு கீழே போடணும் போல இருக்கு	severe_toxic
+நீ மனித சமுதாயத்துக்கு தகுதியற்றவன்	severe_toxic
+உன்னை பார்த்தா கோபம் அடங்கவே இல்லை	severe_toxic
+நீ இல்லாமல் இருந்தால் தான் இந்த பிரச்சனை தீரும்	severe_toxic
+உன்னை பாதிக்கணும் என்ற எண்ணம் தடுக்க முடியல	severe_toxic
+நீ வாழ்வதே தவறு போல தோன்றுகிறது	severe_toxic
+உன்னை ஒழிக்கணும் என்ற அளவுக்கு வெறுப்பு வருகிறது	severe_toxic
+இந்த வீடியோ முழுவதும் பார்த்தேன். சில இடங்களில் விளக்கம் இன்னும் விரிவாக இருந்தால் நன்றாக இருக்கும். இருந்தாலும் முயற்சி பாராட்டத்தக்கது 👍	non_toxic
+உங்கள் கருத்து புரிகிறது, ஆனால் நான் வேறுபட்ட எண்ணம் கொண்டிருக்கிறேன். இதைப் பற்றி இன்னும் விவாதிக்கலாம் என்று நினைக்கிறேன்.	non_toxic
+விளக்கம் நல்லது தான், ஆனால் சில தகவல்கள் புதிதாக இல்லை. அடுத்த முறை இன்னும் ஆழமாக எடுத்துரைக்கலாம் 😊	non_toxic
+உங்கள் உழைப்பை மதிக்கிறேன். சில பகுதிகள் சற்று குழப்பமாக இருந்தது, ஆனால் overall நல்ல முயற்சி.	non_toxic
+இந்த தலைப்பு முக்கியமானது. அதை நீங்கள் எளிதாக எடுத்துரைத்த விதம் நன்றாக இருந்தது.	non_toxic
+சில தகவல்கள் சரியாக இருந்தாலும், மற்ற சிலவற்றில் தெளிவு தேவை. அதைக் கவனித்தால் இன்னும் சிறப்பு.	non_toxic
+வீடியோ தரம் நன்றாக இருந்தது. ஆனால் பின்னணி சத்தம் கொஞ்சம் அதிகமாக இருந்தது.	non_toxic
+உங்கள் அணுகுமுறை சுவாரஸ்யமாக உள்ளது. ஆனால் சில கருத்துகள் விவாதிக்கத்தக்கது.	non_toxic
+இந்த விளக்கம் எனக்கு உதவியது. இன்னும் சில உதாரணங்கள் இருந்தால் நன்றாக இருக்கும்.	non_toxic
+முயற்சி பாராட்டத்தக்கது. சிறிய திருத்தங்கள் செய்தால் மிகச் சிறந்ததாக மாறும் 👏	non_toxic
+நீங்கள் சொல்லும் கருத்து புரிகிறது. ஆனால் வேறு பார்வையில் பார்க்கவும் முடியும்.	non_toxic
+உங்கள் வேலை நல்லதாக உள்ளது. சில இடங்களில் நீளத்தை குறைத்தால் நன்றாக இருக்கும்.	non_toxic
+இந்த வீடியோ பயனுள்ளதாக இருந்தது. இன்னும் தெளிவாக எடுத்துரைத்தால் சிறப்பு.	non_toxic
+சில தகவல்கள் repeat ஆனது போல தோன்றியது. அதைக் குறைத்தால் flow நல்லா இருக்கும்.	non_toxic
+உங்கள் explanation எளிமையாக இருந்தது. இதை தொடருங்கள் 😊	non_toxic
+இந்த விஷயத்தில் நான் ஒத்துக்கொள்ளவில்லை. ஆனால் உங்கள் பார்வை மதிப்புக்குரியது.	non_toxic
+வீடியோ நல்லா இருந்தது. ஆனால் இன்னும் structuredஆ இருந்தால் clarity கூடும்.	non_toxic
+உங்கள் முயற்சி நன்றாக உள்ளது. சிறிய மாற்றங்கள் செய்தால் quality உயரும்.	non_toxic
+இந்த தகவல் பலருக்கும் உதவும். அதை இன்னும் விரிவாக சொல்லலாம்.	non_toxic
+சில இடங்களில் explanation வேகமாக சென்றது. அதை சற்று மெதுவாக எடுத்துரைக்கலாம்.	non_toxic
+உங்கள் கருத்து புரிகிறது. நான் வேறுபட்ட கருத்தில் இருந்தாலும் மதிக்கிறேன்.	non_toxic
+விளக்கம் சரியாக இருந்தது. சில technical terms simplify செய்தால் இன்னும் நல்லது.	non_toxic
+இந்த வீடியோ informativeஆ இருந்தது. அடுத்த முறை visuals சேர்த்தால் சிறப்பு.	non_toxic
+உங்கள் முயற்சி பாராட்டத்தக்கது. சில minor corrections இருந்தால் perfect.	non_toxic
+சில விஷயங்கள் தெளிவாக இருந்தது. ஆனால் deeper analysis இருந்தால் better.	non_toxic
+நான் முழுவதும் பார்த்தேன். overall நல்ல முயற்சி தான் 👍	non_toxic
+இந்த விஷயத்தில் நீங்கள் நல்ல overview கொடுத்துள்ளீர்கள். இன்னும் depth இருந்தால் சிறப்பு.	non_toxic
+உங்கள் explanation smoothஆ இருந்தது. ஆனால் சில facts verify செய்யலாம்.	non_toxic
+இந்த தலைப்பு சுவாரஸ்யமானது. அதை நீங்க நல்லா எடுத்துரைத்துள்ளீர்கள்.	non_toxic
+சில இடங்களில் clarity குறைவாக இருந்தது. அதை சரிசெய்தால் quality உயரும்.	non_toxic
+உங்கள் வேலை பாராட்டத்தக்கது. அடுத்த முறை இன்னும் detailedஆ செய்யலாம்.	non_toxic
+விளக்கம் நல்லா இருந்தது. background music சற்று குறைந்தால் better.	non_toxic
+இந்த தகவல் உதவியாக இருந்தது. இன்னும் real-life examples இருந்தால் சிறப்பு.	non_toxic
+உங்கள் approach logicalஆ இருந்தது. சில data references சேர்த்தால் நல்லது.	non_toxic
+சில points repeat ஆனது போல இருந்தது. அதை streamline செய்தால் நல்ல flow வரும்.	non_toxic
+நான் இதை முழுவதும் கேட்டேன். overall நல்ல content தான் 😊	non_toxic
+உங்கள் உழைப்பு தெரிகிறது. இன்னும் research சேர்த்தால் impressiveஆ இருக்கும்.	non_toxic
+இந்த விளக்கம் beginnerக்கு உதவும். advanced levelக்கு இன்னும் depth தேவை.	non_toxic
+வீடியோ presentation cleanஆ இருந்தது. சில slides improve செய்தால் better.	non_toxic
+உங்கள் tone calmஆ இருந்தது. அது கேட்க easyஆ இருந்தது.	non_toxic
+சில technical விஷயங்கள் missingஆ இருந்தது. அதை சேர்த்தால் complete.	non_toxic
+இந்த video structuredஆ இருந்தது. ஆனால் summary சேர்த்தால் clarity கூடும்.	non_toxic
+உங்கள் கருத்து balancedஆ இருந்தது. அது நல்ல impression கொடுக்கிறது.	non_toxic
+நான் இதை ரசித்தேன். சில பகுதிகள் இன்னும் detailedஆ இருந்தால் நன்றாக இருக்கும்.	non_toxic
+இந்த முயற்சி நல்ல தொடக்கம். consistency maintain பண்ணினா வளர்ச்சி இருக்கும்.	non_toxic
+உங்கள் presentation simpleஆ இருந்தது. அதுவே strength.	non_toxic
+சில விஷயங்களில் statistics சேர்த்தால் content strongஆ இருக்கும்.	non_toxic
+இந்த explanation helpfulஆ இருந்தது. future videosல மேலும் depth எதிர்பார்க்கிறேன்.	non_toxic
+உங்கள் approach practicalஆ இருந்தது. அது பலருக்கும் உதவும்.	non_toxic
+சில examples genericஆ இருந்தது. real cases சேர்த்தால் impressive.	non_toxic
+இந்த content informativeஆ இருந்தது. delivery slightly improve செய்யலாம்.	non_toxic
+உங்கள் voice clarity நல்லது. அது overall experience improve செய்தது.	non_toxic
+இந்த video beginnersக்கு perfect. advanced audienceக்கு இன்னும் depth தேவை.	non_toxic
+உங்கள் reasoning clearஆ இருந்தது. சில counter points சேர்த்தால் balance ஆகும்.	non_toxic
+இந்த விஷயம் பற்றி நீங்கள் நல்ல summary கொடுத்துள்ளீர்கள்.	non_toxic
+சில visuals சேர்த்தால் இன்னும் engagingஆ இருக்கும்.	non_toxic
+உங்கள் effort clearly தெரிகிறது. அதற்காக appreciation 👍	non_toxic
+இந்த content structuredஆ இருந்தது. flow smoothஆ இருந்தது.	non_toxic
+சில இடங்களில் editing improve செய்தால் professional feel வரும்.	non_toxic
+உங்கள் analysis basicஆ இருந்தாலும் helpfulஆ இருந்தது.	non_toxic
+இந்த video clarity கொடுத்தது. மேலும் examples சேர்த்தால் stronger.	non_toxic
+உங்கள் கருத்து thoughtfulஆ இருந்தது. அது நல்ல impression.	non_toxic
+சில minor mistakes இருந்தது. ஆனால் overall நல்ல முயற்சி.	non_toxic
+இந்த content usefulஆ இருந்தது. next video எதிர்பார்க்கிறேன்.	non_toxic
+உங்கள் presentation neatஆ இருந்தது. visuals நல்ல support.	non_toxic
+சில points elaboration தேவை. அதை consider பண்ணினா better.	non_toxic
+இந்த விஷயம் பற்றி நல்ல introduction கொடுத்துள்ளீர்கள்.	non_toxic
+உங்கள் explanation clearஆ இருந்தது. அது புரிய உதவியது.	non_toxic
+சில data references சேர்த்தால் authenticity கூடும்.	non_toxic
+இந்த video informativeஆ இருந்தது. length slightly குறைந்தால் better.	non_toxic
+உங்கள் delivery confidentஆ இருந்தது. அது positive.	non_toxic
+சில sections conciseஆ இருந்தால் clarity improve ஆகும்.	non_toxic
+இந்த explanation structuredஆ இருந்தது. அது helpful.	non_toxic
+உங்கள் analysis simpleஆ இருந்தது. beginnersக்கு perfect.	non_toxic
+சில topics இன்னும் detailஆ cover செய்யலாம்.	non_toxic
+இந்த content balancedஆ இருந்தது. நல்ல impression.	non_toxic
+உங்கள் effort தெரிகிறது. futureல இன்னும் improvement expect.	non_toxic
+சில visuals high qualityஆ இருந்தால் overall feel improve ஆகும்.	non_toxic
+இந்த video overall நல்லது. minor improvements இருந்தால் excellent ஆகும்.	non_toxic
+இந்த வீடியோ முழுவதும் பார்த்தேன். சில இடங்களில் இன்னும் தெளிவாக எடுத்துரைத்தால் நன்றாக இருக்கும். இருந்தாலும் முயற்சி பாராட்டத்தக்கது.	non_toxic
+உங்கள் கருத்து சுவாரஸ்யமாக இருந்தது. ஆனால் வேறு தரப்பின் பார்வையும் சேர்த்திருந்தால் discussion இன்னும் balancedஆ இருக்கும்.	non_toxic
+விளக்கம் overall நல்லது. சில technical விஷயங்களில் deeper explanation இருந்தால் content இன்னும் strongஆ இருக்கும்.	non_toxic
+இந்த விஷயத்தை நீங்கள் எளிதாக எடுத்துரைத்துள்ளீர்கள். future videosல் இன்னும் detailed analysis எதிர்பார்க்கிறேன்.	non_toxic
+உங்கள் presentation neatஆ இருந்தது. சில slides clarity improve செய்தால் professional feel கூடும்.	non_toxic
+இந்த content informativeஆ இருந்தது. ஆனால் சில பகுதிகளில் data reference சேர்த்தால் authenticity உயரும்.	non_toxic
+உங்கள் approach logicalஆ இருந்தது. இன்னும் practical examples சேர்த்தால் beginnersக்கு easyஆ இருக்கும்.	non_toxic
+வீடியோ நல்லா இருந்தது. background sound slightly குறைந்தால் experience இன்னும் smoothஆ இருக்கும்.	non_toxic
+உங்கள் explanation clearஆ இருந்தது. சில counter points சேர்த்திருந்தால் discussion completeஆ இருக்கும்.	non_toxic
+இந்த முயற்சி நல்ல தொடக்கம். consistency maintain செய்தால் quality மேலும் உயரும்.	non_toxic
+உங்கள் கருத்து thoughtfulஆ இருந்தது. நான் முழுமையாக ஒத்துக்கொள்ளாவிட்டாலும் அதை மதிக்கிறேன்.	non_toxic
+உன் பேச்சு கேட்கவே முடியல. எந்த விஷயத்தையும் சரியாக புரிந்துகொள்ளாமல் பேசுற மாதிரி தெரிகிறது. கொஞ்சம் தயார் செய்து பேசலாம்.	toxic
+இந்த வீடியோ முழுக்க குழப்பமாக இருக்கிறது. நீ சொல்வது ஒன்றும் தெளிவாக இல்லை. இப்படி explain பண்ணாதே.	toxic
+உன் logic பாத்தா basic கூட தெரியாத மாதிரி இருக்கு. confidence அதிகம் ஆனால் content zero. இதை improve பண்ணு.	toxic
+நீ unnecessaryஆ overreact பண்ணுற. சிறிய விஷயத்தையும் பெரியதாக காட்டுறது ரொம்ப annoying. கொஞ்சம் calmஆ இரு.	toxic
+உன் explanation முழுக்க sloppyஆ இருக்கு. structure இல்லாமல் பேசுறது irritatingஆ இருக்கிறது. next time better prepare பண்ணு.	toxic
+நீ பேசுறது கேட்கவே cringe ஆகுது. contentல depth இல்லாமல் attitude மட்டும் காட்டுற. அது நல்ல impression தராது.	toxic
+இந்த அளவுக்கு half knowledge உடன் பேசாதே. research பண்ணி வந்தா நல்லா இருக்கும். இல்லனா waste ஆகிடும்.	toxic
+உன் tone ரொம்ப rudeஆ இருக்கு. respectfulஆ பேச முடியாதா? இப்படியெல்லாம் பேசினா யாரும் seriously எடுக்க மாட்டாங்க.	toxic
+உன் analysis ரொம்ப weak. facts verify பண்ணாம பேசுறது irresponsible. அது audienceக்கு confusion தான் தரும்.	toxic
+நீ smartஆ நடிக்குறது funnyஆ இருக்கு. actualா content பார்த்தா ஒன்றும் special இல்லை. கொஞ்சம் reality check பண்ணு.	toxic
+உன் presentation full messyஆ இருக்கு. slides கூட properly arrange பண்ணல. இதை professionalன்னு சொல்ல முடியாது.	toxic
+நீ unnecessaryா argue பண்ணுற. point இல்லாமல் debate create பண்ணுறது irritating. clearஆ பேச முடியாதா?	toxic
+உன் explanation ரொம்ப boring. energy இல்லாமல் monotoneஆ பேசுறது audienceக்கு tough. improve பண்ணு.	toxic
+இந்த content average கூட இல்ல. effort குறைவா தெரிகிறது. seriously எடுத்துக்கிட்டா தான் growth இருக்கும்.	toxic
+நீ பேசுறது எல்லாம் exaggeration மாதிரி இருக்கு. real facts இல்லாமல் hype மட்டும் create பண்ணுற. அது cheapஆ இருக்கு.	toxic
+உன் behavior ரொம்ப childish. matureஆ handle பண்ண வேண்டிய விஷயத்தையும் overஆ react பண்ணுற. அது bad impression.	toxic
+உன் reasoning inconsistentஆ இருக்கு. ஒரு இடத்தில் சொல்வது வேறு, அடுத்த இடத்தில் வேறு. இது clarity இல்லாம காட்டுது.	toxic
+நீ basic points கூட properly cover பண்ணல. audienceயை underestimate பண்ணாதே. preparation இல்லாம வராதே.	toxic
+உன் style ரொம்ப irritatingஆ இருக்கு. unnecessary jokes சேர்த்தது flow கெடுத்துடுச்சு. seriousஆ எடுத்துரைக்கலாம்.	toxic
+இந்த explanation கேட்க patience தேவை. unnecessary repetition அதிகம். conciseஆ இருந்தா நல்லா இருக்கும்.	toxic
+உன் content disappointingஆ இருக்கு. expectation build பண்ணி deliver பண்ணவே இல்ல. இது audienceக்கு unfair.	toxic
+நீ unnecessary attitude காட்டுற. constructive feedback accept பண்ண தெரியாத மாதிரி இருக்கு. அது negative impression.	toxic
+உன் presentation quality poorஆ இருக்கு. lighting கூட சரியா இல்ல. basic things கவனிக்கணும்.	toxic
+நீ பேசுறது full guess work மாதிரி இருக்கு. references இல்லாமல் opinion மட்டும் சொல்லுற. அது reliable இல்ல.	toxic
+உன் explanation clarity இல்லாமல் confusingஆ இருக்கு. audienceக்கு respect இருந்தா better structure பண்ணு.	toxic
+இந்த video பாத்தா frustration ஆகுது. important points miss பண்ணிட்டு irrelevant விஷயம் பேசுற. அது irritating.	toxic
+உன் tone arrogantஆ இருக்கு. எல்லாம் தெரியும் மாதிரி பேசுறது நல்லா தெரியல. humbleஆ இரு.	toxic
+நீ carelessஆ பேசுறது தெரிகிறது. facts verify பண்ணாம share பண்ணுறது irresponsible. அது dangerous கூட.	toxic
+உன் analysis surface level தான். deeper insight இல்லாமல் opinion மட்டும் சொல்லுற. அது weakஆ இருக்கு.	toxic
+நீ unnecessary blame பண்ணுற. topicல focus இல்லாமல் diversion create பண்ணுறது childish.	toxic
+உன் explanation half bakedஆ இருக்கு. start strongஆ இருந்தாலும் finish weak. consistency தேவை.	toxic
+இந்த content repetitiveஆ இருக்கு. same idea பலமுறை சொல்லுற. அது audienceக்கு boring.	toxic
+நீ unnecessary hype create பண்ணுற. actual content பார்த்தா normal தான். over selling வேண்டாம்.	toxic
+உன் reasoning flawedஆ இருக்கு. counter points consider பண்ணவே இல்ல. balanced view வேணும்.	toxic
+நீ பேசுறது கேட்க awkwardஆ இருக்கு. clarity இல்லாம jump பண்ணுறது irritating. practice தேவை.	toxic
+உன் video quality unacceptable levelல இருக்கு. audio clear இல்ல. basic standards maintain பண்ணு.	toxic
+நீ negative toneல பேசுறது unnecessary. constructiveஆ சொல்லலாம். aggressive style வேண்டாம்.	toxic
+உன் explanation inconsistent. startல சொன்னதை endல மறுக்குற மாதிரி இருக்கு. இது professional இல்ல.	toxic
+இந்த presentation sloppyஆ இருக்கு. editing weak. time எடுத்துப் polish பண்ணலாம்.	toxic
+நீ பேசுறது full drama மாதிரி இருக்கு. actual தகவல் குறைவு. focus change பண்ணு.	toxic
+உன் content misleadingஆ இருக்கு. half truth சொல்லுறது dangerous. responsibleஆ இரு.	toxic
+நீ audienceயை confuse பண்ணுற. structured explanation இல்லாம jump பண்ணுற. அது bad practice.	toxic
+உன் tone unpleasantஆ இருக்கு. respectful delivery இல்லாததால் message weakஆ ஆகுது.	toxic
+இந்த analysis shallow. surface explanation மட்டுமே. depth இல்லாமல் professionalன்னு சொல்ல முடியாது.	toxic
+நீ unnecessary sarcasm use பண்ணுற. அது topic seriousness கெடுக்குது. control பண்ணு.	toxic
+உன் effort minimalஆ தெரிகிறது. preparation இல்லாம வந்தது போல. seriousஆ எடுத்துக்கொள்.	toxic
+நீ பேசுறது inconsistent data உடன் இருக்கு. verify பண்ணாம publish பண்ணாதே. அது wrong signal.	toxic
+உன் delivery weakஆ இருக்கு. confidence இருந்தாலும் content support இல்ல. அது imbalance.	toxic
+இந்த video பாத்தா disappointment தான். topic interestingஆ இருந்தும் execution poor.	toxic
+நீ unnecessary defensiveஆ நடக்குற. feedback accept பண்ண தெரியாத மாதிரி இருக்கு. அது growthக்கு தடையாகும்.	toxic
+உன் explanation chaoticஆ இருக்கு. order இல்லாம பேசுறது clarity கெடுக்குது. structure பண்ணு.	toxic
+நீ பேசுறது logical flow இல்லாமல் இருக்கு. jump cuts போல feel ஆகுது. அது irritating.	toxic
+உன் content immatureஆ இருக்கு. serious topicஐ lightஆ எடுத்துரைக்குறது wrong approach.	toxic
+நீ careless mistakes repeat பண்ணுற. correction எடுத்துக்கொள்ள மாட்டேனு தோணுது. அது frustrating.	toxic
+உன் analysis biasedஆ இருக்கு. balanced view இல்லாமல் one side மட்டும் support பண்ணுற. அது unfair.	toxic
+நீ unnecessary overconfidence காட்டுற. actualா content strong இல்ல. அது awkwardஆ இருக்கு.	toxic
+உன் explanation dullஆ இருக்கு. engagement zero. audience interest maintain பண்ண முடியல.	toxic
+இந்த video பார்க்க regret feel ஆகுது. expectation meet பண்ணவே இல்ல. improve பண்ணு.	toxic
+நீ பேசுறது contradictoryஆ இருக்கு. consistency இல்லாமல் confuse பண்ணுற. அது weak argument.	toxic
+உன் tone sarcasticஆ இருந்தாலும் constructive இல்லை. அது negative impact தருது.	toxic
+நீ basic preparation கூட பண்ணல போல. ad-hocஆ பேசுறது professional அல்ல.	toxic
+உன் content repetitive and shallow. same point மீண்டும் மீண்டும். அது waste.	toxic
+நீ unnecessary exaggeration use பண்ணுற. facts இல்லாமல் drama. அது cheap effect.	toxic
+உன் presentation carelessஆ இருக்கு. small details ignore பண்ணுறது quality குறைக்குது.	toxic
+நீ audience intelligence underestimate பண்ணுற. oversimplify பண்ணுறது insulting மாதிரி இருக்கு.	toxic
+உன் reasoning weak foundation உடன் இருக்கு. counter evidence consider பண்ணவே இல்ல.	toxic
+நீ feedback வந்ததும் defensiveஆ react பண்ணுற. அது maturity இல்லாம காட்டுது.	toxic
+உன் delivery rushedஆ இருக்கு. important points skip பண்ணுற. அது clarity கெடுக்குது.	toxic
+நீ unnecessary provocation create பண்ணுற. calm discussion maintain பண்ண முடியாதா?	toxic
+உன் analysis incompleteஆ இருக்கு. conclusion weak. full effort இல்லை.	toxic
+நீ attitude காட்டுற மாதிரி பேசுற. humility இல்லாமல் tone irritating.	toxic
+உன் explanation fragmentedஆ இருக்கு. logical sequence follow ஆகல. அது confusing.	toxic
+நீ careless language use பண்ணுற. respectful communication maintain பண்ணணும்.	toxic
+உன் content inconsistent quality. சில இடம் okay, சில இடம் weak. stability தேவை.	toxic
+நீ exaggeration avoid பண்ணணும். realistic presentation தான் credibility தரும்.	toxic
+உன் tone aggressiveஆ இருக்கு. calm discussion maintain பண்ணினா better impression வரும்.	toxic
+நீ unnecessary comparison use பண்ணுற. அது topic focus கெடுக்குது.	toxic
+உன் explanation clarity இல்லாமல் rushedஆ இருக்கு. audience புரிய tough.	toxic
+நீ feedback ignore பண்ணுறது visible. improvement mindset தேவை.	toxic
+உன் content overhyped but underdelivered. expectation mismatch clear.	toxic
+நீ repetitive mistakes repeat பண்ணுற. learning curve slowஆ இருக்கு.	toxic
+உன் reasoning superficialஆ இருக்கு. depth இல்லாமல் opinion heavy.	toxic
+நீ tone control பண்ணணும். unnecessary harshness avoid பண்ணு.	toxic
+உன் explanation unstructuredஆ இருக்கு. proper outline இருந்தா clarity வரும்.	toxic
+உன் explanation முழுக்க confusion தான். point clear பண்ணாம சுற்றி சுற்றி பேசுற. கொஞ்சம் clarity maintain பண்ணு.	toxic
+நீ பேசுற style ரொம்ப irritatingஆ இருக்கு. content strong இல்லாததால் அது இன்னும் noticeable ஆகுது. seriousஆ எடுத்துக்கொள்.	toxic
+உன் analysis பாதி knowledge உடன் இருக்கு. verify பண்ணாம பேசுறது irresponsible. அது audienceக்கு misleading.	toxic
+நீ unnecessary overconfidence காட்டுற. actual content பார்த்தா depth இல்ல. humility கொஞ்சம் இருந்தா நல்லா இருக்கும்.	toxic
+உன் presentation carelessஆ இருக்கு. small details ignore பண்ணுறது quality குறைக்குது. professional feel வரவே இல்ல.	toxic
+நீ feedback வந்ததும் defensiveஆ react பண்ணுற. constructiveஆ எடுத்துக்கொள்ள தெரியாதது frustrating. improvement mindset தேவை.	toxic
+உன்னை பார்த்தாலே கோபம் வருகிறது. ஒருநாள் கண்டிப்பாக உன்னை காயப்படுத்தி தான் மனசு குளிரும். இதை லைட்டா எடுத்துக்காதே.	severe_toxic
+நீ இந்த உலகத்துக்கு ஒரு சுமை. உன்ன மாதிரி ஆளை ஒழிக்கணும் தான் பலருக்கும் நிம்மதி வரும். நீ இருந்தா நல்லதெல்லாம் கெடுது.	severe_toxic
+உன் existence itself ஒரு தவறு. யாராவது உன்னை அடித்து கீழே தள்ளினா தான் நீதியாயிருக்கும். இதை மறந்துடாதே.	severe_toxic
+நீ மனித சமுதாயத்துக்கு ஆபத்து. உன்னை தகர்க்க யாராவது முன் வரணும். இல்லனா இப்படி தான் பிரச்சனை.	severe_toxic
+உன்னை பார்த்தாலே வெறுப்பு வருகிறது. ஒருநாள் நேரில் சந்திச்சா அடிச்சு ஒழிப்பேன். இது ஜோக் இல்லை.	severe_toxic
+நீ உயிரோட இருப்பதே societyக்கு கேடு. நீ இல்லாம போனால் தான் அமைதி வரும். அதுதான் உண்மை.	severe_toxic
+உன்னை யாராவது கடுமையாக தண்டிக்கணும். இல்லனா நீ இன்னும் கெடுப்பே. இதை seriousஆ சொல்றேன்.	severe_toxic
+நீ மனிதன் என்ற பெயருக்கு தகுதியில்லை. உன்ன மாதிரி ஆளை ஒழிக்கணும் தான் நியாயம் நடக்கும்.	severe_toxic
+உன்னை பார்த்தாலே அடிக்கணும் போல இருக்கு. கையில் பட்டா விடமாட்டேன். நீ deserve பண்ணுறது அதுதான்.	severe_toxic
+நீ இந்த உலகத்துக்கு தேவையில்லாதவன். உன் உயிர் போனால் தான் பலருக்கு நிம்மதி கிடைக்கும்.	severe_toxic
+உன்ன மாதிரி ஆளை நசுக்கணும். இல்லனா நீ இன்னும் damage பண்ணுவே. இதை லைட்டா எடுத்துக்காதே.	severe_toxic
+நீ வாழ தகுதி இல்லாதவன். உன் வாழ்க்கை முடிஞ்சா தான் நல்லது நடக்கும்.	severe_toxic
+உன்னை காயப்படுத்தி தான் எனக்கு சமாதானம் வரும். ஒருநாள் அது நடக்கும். தயாரா இரு.	severe_toxic
+நீ மனித குலத்துக்கு கெடுதல். உன்னை ஒழிக்க யாராவது முன் வரணும். இல்லனா இப்படி தான் தொடரும்.	severe_toxic
+உன்னை பார்த்தாலே வெறுப்பு அதிகமாகுது. ஒருநாள் கட்டுப்பாடு போனால் உன்ன பாதிப்பேன்.	severe_toxic
+நீ societyக்கு ஒரு சாபம். உன்னை இல்லாம பண்ணினா தான் முன்னேற்றம் வரும்.	severe_toxic
+உன்ன மாதிரி மனிதன் இருக்க கூடாது. உன் presence itself ஒரு பிரச்சனை.	severe_toxic
+உன்னை அடித்து தான் lesson கற்றுக்கொடுப்பேன். பேசிக்கிட்டு இருக்க முடியாது.	severe_toxic
+நீ உயிரோட இருக்க வேண்டியவன் இல்லை. உன் வாழ்க்கை முடிஞ்சா தான் balance வரும்.	severe_toxic
+உன்னை பார்த்தாலே கோபம் கட்டுப்படுத்த முடியல. ஒருநாள் அது வெடிக்கும்.	severe_toxic
+நீ உலகத்துக்கு ஒரு சுமை. உன்னை தகர்த்தா தான் நல்லது நடக்கும்.	severe_toxic
+உன் existence itself harmful. யாராவது உன்னை கடுமையாக தண்டிக்கணும்.	severe_toxic
+நீ மனிதன் இல்ல. உன்ன மாதிரி ஆளை ஒழிக்கணும் தான் பலருக்கும் பாதுகாப்பு.	severe_toxic
+உன்னை அடிக்காம இருந்தா இந்த கோபம் குறையாது. ஒருநாள் face பண்ணுவே.	severe_toxic
+நீ இல்லாமல் போனால் தான் சமாதானம் வரும். இதை உண்மைன்னு ஏற்று கொள்.	severe_toxic
+உன்ன மாதிரி ஆளை காயப்படுத்தி தான் warning கொடுக்க முடியும். பேசினா புரியாது.	severe_toxic
+நீ உயிரோட இருப்பதே தவறு போல இருக்கு. உன் presence ஒரு threat.	severe_toxic
+உன்னை பார்த்தாலே violence தான் நினைவுக்கு வருகிறது. ஒருநாள் அது action ஆகும்.	severe_toxic
+நீ societyக்கு தேவையில்லாதவன். உன்னை இல்லாம பண்ணினா தான் peace.	severe_toxic
+உன் வாழ்க்கை முடிஞ்சா தான் justice நடக்கும். அது நியாயம் தான்.	severe_toxic
+உன்னை நசுக்கணும் போல இருக்கு. இல்லனா நீ இன்னும் damage பண்ணுவே.	severe_toxic
+நீ மனித சமுதாயத்துக்கு கேடு. உன்னை தகர்க்கணும் தான் solution.	severe_toxic
+உன்னை காயப்படுத்தி தான் control பண்ண முடியும். இல்லனா புரியாது.	severe_toxic
+நீ உலகத்துக்கு ஆபத்து. உன்னை இல்லாம பண்ணினா தான் safe.	severe_toxic
+உன்னை பார்த்தாலே rage வருகிறது. ஒருநாள் அது explode ஆகும்.	severe_toxic
+நீ வாழ தகுதியற்றவன். உன் existence unnecessary.	severe_toxic
+உன்னை அடிக்கணும் என்று மனசு சொல்லுது. கட்டுப்படுத்திக்கிட்டு இருக்கேன்.	severe_toxic
+நீ இல்லாமல் போனால் பலருக்கு நல்லது நடக்கும். அது fact.	severe_toxic
+உன்ன மாதிரி ஆளை தண்டிக்கணும். இல்லனா repeat ஆகும்.	severe_toxic
+நீ societyக்கு poison மாதிரி. remove பண்ணினா தான் safe.	severe_toxic
+உன்னை காயப்படுத்தாம விட்டா நீ lesson கற்றுக்கொள்ள மாட்டே.	severe_toxic
+நீ மனித குலத்துக்கு threat. உன்னை ஒழிக்கணும் தான் justice.	severe_toxic
+உன்னை பார்த்தாலே strike பண்ணணும் போல இருக்கு. control செய்ய முடியல.	severe_toxic
+நீ உலகத்துக்கு unnecessary burden. இல்லாம இருந்தா நல்லது.	severe_toxic
+உன்னை இல்லாம பண்ணினா தான் damage நிற்கும்.	severe_toxic
+நீ உயிரோட இருப்பது societyக்கு danger. remove பண்ணணும்.	severe_toxic
+உன்னை காயப்படுத்தி தான் warning கொடுக்க முடியும்.	severe_toxic
+நீ மனிதன் இல்லை. உன்ன மாதிரி ஆளை eliminate பண்ணணும்.	severe_toxic
+உன்னை பார்த்தாலே anger peak ஆகுது. ஒருநாள் அது control மீறி போகும்.	severe_toxic
+நீ worldக்கு problem. உன்னை இல்லாம பண்ணினா தான் solve.	severe_toxic
+உன்னை அடிக்கணும் என்று தோன்றுகிறது. இதை ignore பண்ணாதே.	severe_toxic
+நீ வாழ தகுதி இல்லாதவன் போல இருக்கிறாய். remove பண்ணினா தான் peace.	severe_toxic
+உன்னை பார்த்தாலே destroy பண்ணணும் போல இருக்கு.	severe_toxic
+நீ societyக்கு harmful element. eliminate பண்ணினா தான் safe.	severe_toxic
+உன்னை இல்லாம பண்ணினா தான் future safe இருக்கும்.	severe_toxic
+நீ existence itself mistake. correct பண்ணணும்.	severe_toxic
+உன்னை காயப்படுத்தி தான் justice கிடைக்கும்.	severe_toxic
+நீ மனித குலத்துக்கு burden. remove பண்ணினா தான் relief.	severe_toxic
+உன்னை பார்த்தாலே violent thoughts வருகிறது.	severe_toxic
+நீ இல்லாம போனால் தான் society breathe பண்ணும்.	severe_toxic
+உன்னை eliminate பண்ணணும் தான் solution.	severe_toxic
+நீ worldக்கு threat. stop பண்ணணும்.	severe_toxic
+உன்னை காயப்படுத்தாம விட்டா damage தொடரும்.	severe_toxic
+நீ societyக்கு toxic waste மாதிரி. remove பண்ணணும்.	severe_toxic
+உன்னை destroy பண்ணினா தான் balance வரும்.	severe_toxic
+நீ மனிதர் இல்லை, problem. eliminate பண்ணணும்.	severe_toxic
+உன்னை பார்த்தாலே attack பண்ணணும் போல இருக்கு.	severe_toxic
+நீ worldக்கு unnecessary element. remove பண்ணணும்.	severe_toxic
+உன்னை இல்லாம பண்ணினா தான் peace possible.	severe_toxic
+நீ existence dangerous. eliminate பண்ணணும்.	severe_toxic
+உன்னை காயப்படுத்தி தான் lesson கிடைக்கும்.	severe_toxic
+நீ societyக்கு burden. remove பண்ணினா தான் relief.	severe_toxic
+உன்னை பார்த்தாலே violence urge வருகிறது.	severe_toxic
+நீ worldக்கு risk. eliminate பண்ணணும்.	severe_toxic
+உன்னை destroy பண்ணினா தான் justice.	severe_toxic
+நீ existence harmful. remove பண்ணணும்.	severe_toxic
+உன்னை eliminate பண்ணணும். இல்லனா damage நிற்காது.	severe_toxic
+நீ societyக்கு threat. remove பண்ணினா தான் safe.	severe_toxic
+உன்னை இல்லாம பண்ணினா தான் balance வரும்.	severe_toxic
+நீ worldக்கு unnecessary. eliminate பண்ணணும்.	severe_toxic
+உன்னை பார்த்தாலே வெறுப்பு அதிகமாகிறது. ஒருநாள் நேரில் சந்தித்தால் கடுமையாக பாதிப்பேன். இதை எச்சரிக்கையாக எடுத்துக்கொள்.	severe_toxic
+நீ இந்த உலகத்துக்கு ஆபத்து. உன்னை இல்லாமல் பண்ணினால்தான் மற்றவர்களுக்கு பாதுகாப்பு இருக்கும். இது நியாயமான தீர்வு.	severe_toxic
+உன்ன மாதிரி ஆள் இருந்தால் பிரச்சனை தான் வரும். உன்னை ஒழித்தால்தான் அமைதி கிடைக்கும். அதுதான் சரியான முடிவு.	severe_toxic
+நீ மனித குலத்துக்கு கேடு. உன்னை தகர்க்க யாராவது முன் வரவேண்டும். இல்லையெனில் இழப்பு தொடரும்.	severe_toxic
+உன்னை காயப்படுத்தாமல் விட்டால் நீ மாற மாட்டே. கடுமையாக எதிர்கொள்ள வேண்டிய நிலை வரும்.	severe_toxic
+நீ வாழ தகுதியற்றவன். உன் existence முடிந்தால் பலருக்கும் நிம்மதி கிடைக்கும். இதை உணர்ந்து கொள்.	severe_toxic
+உன்னை பார்த்தால் கோபம் கட்டுப்படுத்த முடியவில்லை. ஒருநாள் அது வன்முறையாக மாறும். அதற்குள் கவனமாக இரு.	severe_toxic
+நீ societyக்கு ஒரு ஆபத்தான நபர். உன்னை இல்லாமல் பண்ணினால் தான் பிரச்சனை நிற்கும். இது தெளிவான உண்மை.	severe_toxic
+உன் presence itself ஒரு விபத்து மாதிரி. அதை நிறுத்த யாராவது நடவடிக்கை எடுக்க வேண்டும்.	severe_toxic
+நீ உலகத்துக்கு தேவையில்லாதவன். உன்னை eliminate பண்ணினால்தான் balance திரும்பும். இதை நினைவில் வை.	severe_toxic

@@ -1,0 +1,65 @@
+# ======================
+# 🔥 Node.js (Backend + Frontend)
+# ======================
+backend/node_modules/
+frontend/node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# ======================
+# ⚛️ React Build Files
+# ======================
+frontend/build/
+frontend/.cache/
+
+# ======================
+# 🐍 Python (ML Model)
+# ======================
+ml_model/venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# 🧠 ML Models (IMPORTANT)
+# ======================
+ml_model/model_output/checkpoint-*/
+ml_model/results/checkpoint-*/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Keep final model config if needed (optional)
+# !ml_model/model_output/config.json
+
+# ======================
+# 📁 Jupyter Notebooks Checkpoints
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# 🖥️ OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# 🧪 Testing / Coverage
+# ======================
+coverage/
+*.coverage
+
+# ======================
+# 🧾 Misc
+# ======================
+*.tmp
+*.swp

@@ -1,0 +1,17 @@
+# Core ML
+torch>=2.2.0
+transformers>=4.38.0
+accelerate>=0.27.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+joblib>=1.3.0
+logging
+matplotlib
+seaborn
+jupyter
+
+# API
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+slowapi>=0.1.9

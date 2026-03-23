@@ -1,0 +1,4 @@
+{"timestamp": "2026-02-01T22:25:29.054312", "text": "Nee oru loosu", "prediction": "toxic", "confidence": 0.33699893951416016, "process_time_ms": 106.18}
+{"timestamp": "2026-02-01T22:25:29.123075", "text": "Good morning", "prediction": "toxic", "confidence": 0.3367135226726532, "process_time_ms": 63.12}
+{"timestamp": "2026-02-01T22:30:07.629070", "text": "Unakku arive illaya?", "prediction": "toxic", "confidence": 0.3367861211299896, "process_time_ms": 97.32}
+{"timestamp": "2026-02-01T22:30:40.767522", "text": "Good morning", "prediction": "toxic", "confidence": 0.3367135226726532, "process_time_ms": 46.66}

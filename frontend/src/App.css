@@ -1,0 +1,50 @@
+.cardd{
+  
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.615);
+}
+.form-control:focus {
+  outline: none;
+  background-color: #111;
+  color: #fff;
+  resize: none;
+  overflow: hidden;
+}
+.ptm
+{
+  outline: none;
+  background-color: transparent;
+  color: #fff;
+  /* border-left: none; */
+  /* font-size: 20px; */
+  border-top-right-radius: 45px;
+  border-bottom-right-radius: 45px;
+}
+.btm
+{
+  outline: none;
+  background-color: transparent;
+  color: #fff;
+  border-right: none;
+  /* border-radius: 45px; */
+  resize: none;
+  overflow: hidden;
+  padding-top: 18px;
+}
+
+.card-custom 
+{
+  border-color:transparent;
+  background-color: white;
+  border-radius: 12px;
+  padding: 2px;
+}
+.card-custom img 
+{
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+.h{
+  font-size: 12px;
+}
